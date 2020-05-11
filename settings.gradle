@@ -1,0 +1,3 @@
+rootProject.name='LibraryAdapter'
+include ':app'
+include ':library_adapter'
