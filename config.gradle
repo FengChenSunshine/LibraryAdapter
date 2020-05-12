@@ -39,9 +39,9 @@ ext {
             material                 : "com.google.android.material:material:1.1.0",
             swiperefreshlayout       : "androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-beta01",
 
-            utils                    : "com.github.FengChenSunshine:Utils:1.0.2",
-            uiStatus                 : "com.github.FengChenSunshine:UiStatus:1.0.3",
-            resource                 : "com.github.FengChenSunshine:LibraryResource:1.0.3",
+            utils                    : "com.github.FengChenSunshine:Utils:1.0.4",
+            uiStatus                 : "com.github.FengChenSunshine:UiStatus:1.0.5",
+            resource                 : "com.github.FengChenSunshine:LibraryResource:1.0.4",
     ]
 
 }
